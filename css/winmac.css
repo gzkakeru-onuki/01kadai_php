@@ -1,0 +1,81 @@
+body {
+    background-color: #aaf6c2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.header{
+    display: flex;
+    background: whitesmoke;
+    justify-content: center;
+    border-bottom: 5px double gray;
+}
+
+.lists {
+    display: flex;
+}
+
+.list-item {
+    display: flex;
+    margin-right: 40px;
+}
+
+.list-item:hover {
+    transform: translateY(-3px);
+    border-bottom: 1px solid gray;
+}
+
+.title {
+    text-align: center;
+}
+
+.contact-form{
+    
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact-form table{   
+    margin-bottom:15px;
+}
+
+.contact-form th td{   
+    width: 50%;
+}
+
+.input-form {
+    width: 100px;
+}
+
+#submitBtn {
+    all: unset;
+    padding: 10px;
+    background: #4cead2;
+    width: 130px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+
+#submitBtn:hover {
+    box-shadow: 1px 1px 1px  gray;
+    transform: translateY(1px);
+}
+
+#postBtn {
+    all: unset;
+    padding: 5px;
+    background: #4cead2;
+    width: 130px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+
+#postBtn:hover {
+    box-shadow: 1px 1px 1px  gray;
+    transform: translateY(1px);
+}

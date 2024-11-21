@@ -1,0 +1,194 @@
+[
+    {
+        "userId": "test",
+        "name": "onuki",
+        "mail": "pioneerkokoro@gmail.com",
+        "age": "20",
+        "genre": "フリーランス",
+        "type": "Mac向きです！今すぐ買ってください！"
+    },
+    {
+        "userId": "test2",
+        "name": "hayasi",
+        "mail": "gzdevonuki@gmail.com",
+        "age": "20",
+        "genre": "フリーランス",
+        "type": "Mac向きです！今すぐ買ってください！"
+    },
+    {
+        "userId": "test2",
+        "name": "hayasi",
+        "mail": "gzdevonuki@gmail.com",
+        "age": "20",
+        "genre": "フリーランス",
+        "type": "Mac向きです！今すぐ買ってください！"
+    },
+    {
+        "userId": "system@co.jp",
+        "name": "0403012815",
+        "mail": "gzdevonuki@gmail.com",
+        "age": "20",
+        "genre": "会社員",
+        "type": "Mac向きです！今すぐ買ってください！"
+    },
+    {
+        "userId": "test",
+        "name": "onuki",
+        "mail": "gzdevonuki@gmail.com",
+        "age": "20",
+        "genre": "会社員",
+        "type": "どちらでも大丈夫だと思われます。バランス型ですね。"
+    },
+    {
+        "userId": "test",
+        "name": "onuki",
+        "mail": "pioneerkokoro@gmail.com",
+        "age": "20",
+        "genre": "無職",
+        "type": "Mac向きです！今すぐ買ってください！"
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "どちらでも大丈夫だと思われます。バランス型ですね。"
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "どちらでも大丈夫だと思われます。バランス型ですね。"
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "どちらでも大丈夫だと思われます。バランス型ですね。"
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "どちらでも大丈夫だと思われます。バランス型ですね。"
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "どちらでも大丈夫だと思われます。バランス型ですね。"
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "どちらでも大丈夫だと思われます。バランス型ですね。"
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "どちらでも大丈夫だと思われます。バランス型ですね。"
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "どちらでも大丈夫だと思われます。バランス型ですね。"
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "迷わずWindowsでいいと思います..."
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "迷わずWindowsでいいと思います..."
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "迷わずWindowsでいいと思います..."
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "迷わずWindowsでいいと思います..."
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "迷わずWindowsでいいと思います..."
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "迷わずWindowsでいいと思います..."
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "迷わずWindowsでいいと思います..."
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "迷わずWindowsでいいと思います..."
+    },
+    {
+        "userId": "",
+        "name": "",
+        "mail": "",
+        "age": "10",
+        "genre": null,
+        "type": "迷わずWindowsでいいと思います..."
+    },
+    {
+        "userId": "test",
+        "name": "onuki",
+        "mail": "gzdevonuki@gmail.com",
+        "age": "30",
+        "genre": "会社員",
+        "type": "迷わずWindowsでいいと思います..."
+    }
+]

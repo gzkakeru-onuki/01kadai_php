@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(223, 219, 219);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.header{
+    display: flex;
+    background: whitesmoke;
+    justify-content: center;
+    border-bottom: 5px double gray;
+}
+
+.lists {
+    display: flex;
+}
+
+.list-item {
+    display: flex;
+    margin-right: 40px;
+}
+
+.list-item:hover {
+    transform: translateY(-3px);
+    border-bottom: 1px solid gray;
+}
+
+#submitBtn {
+    background-color: aliceblue;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    text-align: center;
+    color: black;
+    width: 300px;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+input[type="submit"] {
+    background-color: white;
+    border-radius: 5px;
+    border:1px solid black;
+    color: black;
+    width: 300px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+
+input[type="submit"]:hover{
+    transform: translateY(3px);
+    box-shadow: 1px 1px gray;
+}
